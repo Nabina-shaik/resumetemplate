@@ -1,0 +1,45 @@
+#col1{
+    background-color: rgb(237, 145, 111);
+    
+}
+#col2{
+    background-color: rgb(241, 217, 159);
+}
+#img{
+    height: 150px;
+    width:150px;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-left: 65px;
+}
+#content{
+    font-size: 35px;
+    font-family: sahitya;
+    color: darkcyan;
+
+}
+#nab{
+    font-size: 20px;
+    font-family: sahitya;
+    color: black;
+}
+#name{
+    font-size: 50px;
+    color: brown;
+    font-family: IM FELL Great Primer SC;
+    text-align: center;
+}
+#p1{
+    text-align: center;
+    font-size: 25px;
+    font-family: Adamina;
+
+}
+#sam{
+    background-color: rgb(237, 145, 111);
+    color: darkcyan;
+    font-size: 35px;
+    border-radius: 30px;
+    text-align: center;
+    font-family: sahitya;
+}
